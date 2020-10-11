@@ -1,0 +1,31 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PlotPluginEditor.cpp.obj": [
+			"AssetTypeActions_PlotPlugin.cpp.obj",
+			"EdGraphSchema_PlotPlugin.cpp.obj",
+			"PlotPluginActions.cpp.obj",
+			"PlotPluginEditor.cpp.obj",
+			"PlotPluginEditorModule.cpp.obj",
+			"PlotPluginEditorStyle.cpp.obj",
+			"PlotPluginEditorTypes.cpp.obj",
+			"PlotPluginFactory.cpp.obj",
+			"PlotPluginGraph.cpp.obj",
+			"PlotPluginGraphConnectionDrawingPolicy.cpp.obj",
+			"PlotPluginGraphNode.cpp.obj",
+			"PlotPluginGraphNode_Root.cpp.obj",
+			"PlotPluginGraphTypes.cpp.obj",
+			"SGraphNode_PlotPlugin.cpp.obj"
+		],
+		"Module.PlotPluginEditor.gen.cpp.obj": [
+			"EdGraphSchema_PlotPlugin.gen.cpp.obj",
+			"PlotPluginEditor.init.gen.cpp.obj",
+			"PlotPluginEditorTypes.gen.cpp.obj",
+			"PlotPluginFactory.gen.cpp.obj",
+			"PlotPluginGraph.gen.cpp.obj",
+			"PlotPluginGraphNode.gen.cpp.obj",
+			"PlotPluginGraphNode_Root.gen.cpp.obj",
+			"PlotPluginGraphTypes.gen.cpp.obj"
+		]
+	}
+}

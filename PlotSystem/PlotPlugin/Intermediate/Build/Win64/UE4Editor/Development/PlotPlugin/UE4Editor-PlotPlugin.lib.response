@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PlotPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Learn\UEProject\Plot\Intermediate\Build\Win64\PlotEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Learn\UEProject\Plot\Plugins\PlotPlugin\Intermediate\Build\Win64\UE4Editor\Development\PlotPlugin\Module.PlotPlugin.cpp.obj"
+"E:\Learn\UEProject\Plot\Plugins\PlotPlugin\Intermediate\Build\Win64\UE4Editor\Development\PlotPlugin\Module.PlotPlugin.gen.cpp.obj"
+"E:\Learn\UEProject\Plot\Plugins\PlotPlugin\Intermediate\Build\Win64\UE4Editor\Development\PlotPlugin\Default.rc2.res"
+/OUT:"E:\Learn\UEProject\Plot\Plugins\PlotPlugin\Intermediate\Build\Win64\UE4Editor\Development\PlotPlugin\UE4Editor-PlotPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_PlotPlugin

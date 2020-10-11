@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PlotPlugin.cpp.obj": [
+			"PlotCondition.cpp.obj",
+			"PlotEvent.cpp.obj",
+			"PlotNodeData.cpp.obj",
+			"PlotPlugin.cpp.obj",
+			"PlotPluginModule.cpp.obj",
+			"PlotPluginNode.cpp.obj"
+		],
+		"Module.PlotPlugin.gen.cpp.obj": [
+			"PlotCondition.gen.cpp.obj",
+			"PlotEvent.gen.cpp.obj",
+			"PlotNodeData.gen.cpp.obj",
+			"PlotPlugin.gen.cpp.obj",
+			"PlotPlugin.init.gen.cpp.obj",
+			"PlotPluginNode.gen.cpp.obj"
+		]
+	}
+}
